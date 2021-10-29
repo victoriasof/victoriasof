@@ -6,4 +6,5 @@ I am pleased to announce that I am open for new opportunities in the field of IT
 - 📫 How to reach me: www.linkedin.com/in/victoria-sofianidou-969500151
 - 🦾 Skills: HTML, CSS, Bootstrap, Tailwindcss, Javascript, ReactJs, NodeJs, Express, Firebase, PHP, Symfony
 - 📁 Portfolio: https://victoria-portfolio.web.app/
+- ⭕ Outsystems profile: https://www.outsystems.com/profile/o3tz9zfrvn/
 
